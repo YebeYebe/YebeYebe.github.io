@@ -26,4 +26,15 @@
         <tag>test</tag>
       </tags>
   </entry>
+  <entry>
+    <title>test</title>
+    <url>/%E6%8A%80%E6%9C%AF/undefined</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
 </search>
